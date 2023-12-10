@@ -1,0 +1,6 @@
+.vscode
+.env
+.babelrc
+gapp.json
+package-lock.json
+node_modules
